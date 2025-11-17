@@ -152,25 +152,6 @@ alt="Ehsan's Trophies"
 
 </div>
 
-<!--
-
-CONTRIBUTION SNAKE
-
--->
-
-<div align="center" style="margin-top: 20px;">
-<h3>My Contribution Snake 🐍</h3>
-<!-- Animated Snake Graph -->
-<img
-src="https://www.google.com/search?q=https://github.com/Essi2030/Essi2030/raw/output/github-contribution-grid-snake-dark.svg%3Fdummy-cache-buster-param"
-alt="GitHub Contribution Snake"
-/>
-<p style="font-size: 12px; color: #888;">
-<!-- [!] توجه: برای اینکه این انیمیشن مار به روز شود، باید یک GitHub Action را در مخزن Essi2030/Essi2030 خود تنظیم کنید -->
-<!-- (اگر نمی‌خواهید Action تنظیم کنید، از این لینک ثابت استفاده کنید:) -->
-<!-- <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" /> -->
-</p>
-</div>
 
 <!--
 
