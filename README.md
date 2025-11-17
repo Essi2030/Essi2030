@@ -1,131 +1,194 @@
-<!-- 1. Introduction & Waving Hand -->
-
-<h1 align="center">
-Hi there! I'm Dr. Ehsan Zafari
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrU8O7YF/giphy.gif" width="30px" alt="Waving Hand">
-</h1>
-
-<!-- 2. Professional Title -->
-
-<h3 align="center">
-AI & Machine Learning Researcher | Data Scientist | Python Expert
-</h3>
-
-<!-- 3. Profile Views Badge -->
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DEssi2030%26label%3DPROFILE%2520VIEWS%26color%3D0e75b6%26style%3Dfor-the-badge" alt="Profile Views"/>
-</p>
-
-<!-- 4. About Me Section (General) -->
-
-<p align="left">
-Welcome to my digital space! I'm an AI/ML Researcher passionate about transforming complex data into actionable insights. My work focuses on building and implementing robust, data-driven solutions to solve challenging problems.
-</p>
-
-🔭   I’m currently focused on developing advanced Data Analysis tools and exploring novel Machine Learning models.
-
-🧠   My research interests include Deep Learning, Computer Vision, and Scientific Computing.
-
-🐍   I have extensive experience in Python and its powerful data science & ML ecosystem.
-
-💬   Ask me about: Python, Machine Learning, Data Science, or AI-driven solutions.
-
-👯   I’m always open to collaborating on innovative, data-centric projects.
-
-📫   How to reach me: You can connect with me on LinkedIn!
-
-<!-- 5. Socials / Connect -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/dr-ehsan-zafari-ai-ml" target="blank">
-<img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Dr. Ehsan Zafari | LinkedIn" />
-</a>
-<!-- Optional: Add an email badge. Replace YOUR-EMAIL@gmail.com -->
 <!--
-<a href="mailto:YOUR-EMAIL@gmail.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-</a>
+
+HEADER: BANNER + INTRO
+
 -->
-</p>
 
-<!-- 6. Tech Stack / Skills -->
+<div align="center">
+<h1 align="center">
+Hi 👋, I'm Dr. Ehsan Zafari
+</h1>
+<h3 align="center">
+🤖 AI & Machine Learning Researcher | 🔬 Data Scientist
+</h3>
+<!-- Animated Waving Hand -->
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</div>
 
-<h3 align="left">My Core Tech Stack:</h3>
-<p align="left">
-<strong>Languages & Core:</strong>
+<!--
 
+SOCIAL LINKS
 
+-->
 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
+<div align="center" style="margin-top: 10px;">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/dr-ehsan-zafari-ai-ml/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
+<a href="https://www.google.com/search?q=https://github.com/Essi2030" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker">
+<!-- [!] ایمیل خود را در اینجا قرار دهید -->
+<a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+</div>
 
+<!--
 
+ABOUT ME
 
+-->
 
-
-
-<strong>Data Science & Machine Learning:</strong>
-
-
-
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-</a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Keras-D00000%3Fstyle%3Dfor-the-badge%26logo%3Dkeras%26logoColor%3Dwhite" alt="Keras">
-</a>
-<a href="httpsa://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="scikit-learn">
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas">
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy">
-</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" alt="OpenCV">
-</a>
-
-</p>
-
-<!-- 7. GitHub Stats -->
-
-<h3 align="left">My GitHub Stats:</h3>
+<div style="margin-top: 20px; margin-bottom: 20px;">
+<h2 align="center">About Me 👨‍🔬</h2>
 <p align="center">
+I am a passionate AI/ML researcher transforming complex data into actionable insights.
+
+
+
+
+My work focuses on developing robust, data-driven solutions for challenging scientific and industrial problems.
+
+
+
+
+
+
+
+🔭 &nbsp; I’m currently researching new Deep Learning architectures for scientific data analysis.
+
+
+
+
+
+🌱 &nbsp; I’m currently exploring Large Language Models (LLMs) and Multimodal AI.
+
+
+
+
+
+💬 &nbsp; Ask me about: <b>Python, AI/ML, Data Science, or AI in Geophysics</b>.
+</p>
+</div>
+
+<!--
+
+TECH STACK
+
+-->
+
+<div align="center">
+<h2 align="center">My Tech Stack 💻</h2>
+<p align="center">
+<!-- This stack is focused on AI/ML & Data Science -->
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,pytorch,tensorflow,keras,sklearn,pandas,numpy,jupyter,git,docker,linux,vscode,cplusplus,opencv%26perline%3D7" />
+</a>
+</p>
+</div>
+
+<!--
+
+GITHUB STATS & WIDGETS
+
+-->
+
+<div align="center">
+<h2 align="center">My GitHub Activity 📊</h2>
+
+<!-- GitHub Stats & Top Languages (2-Column Layout) -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
 <!-- GitHub Stats Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img
 align="center"
-width="48%"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DEssi2030%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue"
+height="195px"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DEssi2030%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue%26include_all_commits%3Dtrue%26hide_border%3Dtrue"
 alt="Ehsan's GitHub Stats"
 />
+</a>
+</td>
+<td width="50%" valign="top">
 <!-- Top Languages Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img
 align="center"
-width="48%"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DEssi2030%26locale%3Den%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D8"
+height="195px"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DEssi2030%26layout%3Dcompact%26theme%3Dtokyonight%26langs_count%3D8%26hide_border%3Dtrue"
 alt="Ehsan's Top Languages"
 />
-</p>
+</a>
+</td>
+</tr>
+</table>
 
-<!-- 8. GitHub Activity Graph -->
+<!-- Streak Stats -->
 
-<h3 align="left">My Contribution Graph:</h3>
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DEssi2030%26theme%3Dtokyonight%26hide_border%3Dtrue%26line%3Da6e4d0%26point%3Df7768e%26area%3Dtrue%26area_color%3D2f3049" alt="Ehsan's GitHub Activity Graph" width="98%"/>
+<div style="margin-top: 15px;">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img
+title="GitHub Streak"
+height="140px"
+src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DEssi2030%26theme%3Dtokyonight%26hide_border%3Dtrue%26date_format%3DM%2520j%255B%252C%2520Y%255D"
+alt="GitHub Streak"
+/>
+</a>
+</div>
+
+<!-- Trophy Case -->
+
+<div style="margin-top: 15px;">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img
+src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DEssi2030%26theme%3Ddracula%26no-frame%3Dtrue%26no-bg%3Dtrue%26row%3D1%26column%3D7%26margin-w%3D15%26margin-h%3D15"
+alt="Ehsan's Trophies"
+/>
+</a>
+</div>
+
+</div>
+
+<!--
+
+CONTRIBUTION SNAKE
+
+-->
+
+<div align="center" style="margin-top: 20px;">
+<h3>My Contribution Snake 🐍</h3>
+<!-- Animated Snake Graph -->
+<img
+src="https://www.google.com/search?q=https://github.com/Essi2030/Essi2030/raw/output/github-contribution-grid-snake-dark.svg%3Fdummy-cache-buster-param"
+alt="GitHub Contribution Snake"
+/>
+<p style="font-size: 12px; color: #888;">
+<!-- [!] توجه: برای اینکه این انیمیشن مار به روز شود، باید یک GitHub Action را در مخزن Essi2030/Essi2030 خود تنظیم کنید -->
+<!-- (اگر نمی‌خواهید Action تنظیم کنید، از این لینک ثابت استفاده کنید:) -->
+<!-- <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" /> -->
 </p>
+</div>
+
+<!--
+
+PROFILE VISITOR COUNT
+
+-->
+
+<div align="center" style="margin-top: 20px;">
+<img
+src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DEssi2030%26style%3Dfor-the-badge%26color%3Dc792ea%26label%3DProfile%2520Visitors"
+alt="Profile Visitors"
+/>
+</div>
+
+<!--
+
+FOOTER DIVIDER
+
+-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
