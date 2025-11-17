@@ -19,18 +19,12 @@ SOCIAL LINKS
 
 -->
 
-<div align="center" style="margin-top: 10px;">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/dr-ehsan-zafari-ai-ml/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Essi2030" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
-</a>
-<!-- [!] ایمیل خود را در اینجا قرار دهید -->
-<a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-</div>
+## 🌐 Socials:
+<a href="https://linkedin.com/in/dr-ehsan-zafari-ai-ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> 
+
+<a href="https://kaggle.com/ehsanzafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
+
+<a href="https://instagram.com/drzafari_ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 
 <!--
 
@@ -40,10 +34,9 @@ ABOUT ME
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
 <h2 align="center">About Me 👨‍🔬</h2>
-<p align="center">
-I am a passionate AI/ML researcher transforming complex data into actionable insights.
-
-
+<p align="left">
+  
+<b>I am a passionate experienced AI/ML Engineer transforming complex data into <b>Digital Assets.
 
 
 My work focuses on developing robust, data-driven solutions for challenging scientific and industrial problems.
@@ -54,19 +47,19 @@ My work focuses on developing robust, data-driven solutions for challenging scie
 
 
 
-🔭 &nbsp; I’m currently researching new Deep Learning architectures for scientific data analysis.
+🔭 &nbsp; I’m currently researching new Agentic Ai Automation for Utilizing in Industry.
 
 
 
 
 
-🌱 &nbsp; I’m currently exploring Large Language Models (LLMs) and Multimodal AI.
+🌱 &nbsp; I’m currently exploring Managing Large Language Models in Production (LLMOps) and Multimodal Agentic Ai.
 
 
 
 
 
-💬 &nbsp; Ask me about: <b>Python, AI/ML, Data Science, or AI in Geophysics</b>.
+💬 &nbsp; Ask me about: <b>Python, AI/ML, Data Science, or Industrial AI Automations</b>.
 </p>
 </div>
 
@@ -75,16 +68,8 @@ My work focuses on developing robust, data-driven solutions for challenging scie
 TECH STACK
 
 -->
-
-<div align="center">
-<h2 align="center">My Tech Stack 💻</h2>
-<p align="center">
-<!-- This stack is focused on AI/ML & Data Science -->
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,pytorch,tensorflow,keras,sklearn,pandas,numpy,jupyter,git,docker,linux,vscode,cplusplus,opencv%26perline%3D7" />
-</a>
-</p>
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 <!--
 
@@ -101,28 +86,16 @@ GITHUB STATS & WIDGETS
 <tr>
 <td width="50%" valign="top">
 <!-- GitHub Stats Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img
-align="center"
-height="195px"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DEssi2030%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue%26include_all_commits%3Dtrue%26hide_border%3Dtrue"
-alt="Ehsan's GitHub Stats"
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Essi2030&show_icons=true&theme=radical)
 />
 </a>
 </td>
 <td width="50%" valign="top">
+  
 <!-- Top Languages Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img
-align="center"
-height="195px"
-src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DEssi2030%26layout%3Dcompact%26theme%3Dtokyonight%26langs_count%3D8%26hide_border%3Dtrue"
-alt="Ehsan's Top Languages"
-/>
-</a>
-</td>
-</tr>
-</table>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Essi2030=Aditya664&theme=tokyonight)
+
 
 <!-- Streak Stats -->
 
@@ -137,13 +110,9 @@ alt="GitHub Streak"
 </a>
 </div>
 
-<!-- Trophy Case -->
+## 🏆 GitHub Trophies
 
-<div style="margin-top: 15px;">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img
-src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DEssi2030%26theme%3Ddracula%26no-frame%3Dtrue%26no-bg%3Dtrue%26row%3D1%26column%3D7%26margin-w%3D15%26margin-h%3D15"
-alt="Ehsan's Trophies"
+![](https://github-profile-trophy.vercel.app/?username=Essi2030&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 />
 </a>
 </div>
