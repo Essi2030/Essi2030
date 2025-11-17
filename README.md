@@ -1,8 +1,6 @@
-<!--
 
-HEADER: BANNER + INTRO
+<img width="864" height="652" alt="aaa" src="https://github.com/user-attachments/assets/f9208e65-c0b3-40b0-b764-6db9af6a35e3" />
 
--->
 
 <div align="center">
 <h1 align="center">
