@@ -8,9 +8,11 @@ Hi 👋, I'm Dr. Ehsan Zafari
 </h1>
 <h3 align="center">
 🤖 AI & Machine Learning Researcher | 🔬 Data Scientist
-</h3>
+  
 <!-- Animated Waving Hand -->
+
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 </div>
 
 <!--
@@ -69,7 +71,8 @@ TECH STACK
 
 -->
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white) ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 <!--
 
@@ -88,50 +91,33 @@ GITHUB STATS & WIDGETS
 <!-- GitHub Stats Card -->
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Essi2030&show_icons=true&theme=radical)
-/>
+
 </a>
 </td>
 <td width="50%" valign="top">
   
-<!-- Top Languages Card -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Essi2030=Aditya664&theme=tokyonight)
-
 
 <!-- Streak Stats -->
 
-<div style="margin-top: 15px;">
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img
-title="GitHub Streak"
-height="140px"
-src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DEssi2030%26theme%3Dtokyonight%26hide_border%3Dtrue%26date_format%3DM%2520j%255B%252C%2520Y%255D"
-alt="GitHub Streak"
-/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Essi2030&theme=radical)](https://git.io/streak-stats)
+
 </a>
 </div>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Essi2030&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-/>
+
 </a>
 </div>
 
 </div>
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Essi2030&layout=compact)
 
 <!--
 
-PROFILE VISITOR COUNT
-
--->
-
-<div align="center" style="margin-top: 20px;">
-<img
-src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DEssi2030%26style%3Dfor-the-badge%26color%3Dc792ea%26label%3DProfile%2520Visitors"
-alt="Profile Visitors"
-/>
-</div>
 
 <!--
 
