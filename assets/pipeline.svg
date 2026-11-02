@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="900" height="230">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#FF007F"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .bg { fill: #0D1117; }
+    .box { fill: #111827; stroke: url(#g); stroke-width: 2; animation: pulse 3s ease-in-out infinite; }
+    .t { font: 700 13px 'Courier New', monospace; fill: #00F7FF; text-anchor: middle; }
+    .s { font: 10px 'Courier New', monospace; fill: #C9D1D9; text-anchor: middle; }
+    .title { font: 700 15px 'Courier New', monospace; fill: #FF007F; text-anchor: middle; }
+    .wire { stroke: #7928CA; stroke-width: 2; stroke-dasharray: 6 6; animation: flow 1s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -12; } }
+    @keyframes pulse { 0%,100% { stroke-opacity: .45; } 50% { stroke-opacity: 1; } }
+  </style>
+
+  <rect class="bg" width="900" height="230" rx="14"/>
+  <text class="title" x="450" y="32">▸ AUTONOMOUS INDUSTRIAL AI PIPELINE · LIVE ◂</text>
+
+  <!-- wires -->
+  <line class="wire" x1="150" y1="110" x2="200" y2="110"/>
+  <line class="wire" x1="330" y1="110" x2="380" y2="110"/>
+  <line class="wire" x1="510" y1="110" x2="560" y2="110"/>
+  <line class="wire" x1="690" y1="110" x2="740" y2="110"/>
+
+  <!-- boxes -->
+  <rect class="box" x="20"  y="70" width="130" height="80" rx="12" style="animation-delay:0s"/>
+  <rect class="box" x="200" y="70" width="130" height="80" rx="12" style="animation-delay:.6s"/>
+  <rect class="box" x="380" y="70" width="130" height="80" rx="12" style="animation-delay:1.2s"/>
+  <rect class="box" x="560" y="70" width="130" height="80" rx="12" style="animation-delay:1.8s"/>
+  <rect class="box" x="740" y="70" width="130" height="80" rx="12" style="animation-delay:2.4s"/>
+
+  <!-- labels -->
+  <text class="t" x="85"  y="105">SENSORS</text>   <text class="s" x="85"  y="125">vision·text·IoT</text>
+  <text class="t" x="265" y="105">FUSION</text>    <text class="s" x="265" y="125">multimodal encoder</text>
+  <text class="t" x="445" y="105">AGENT CORE</text><text class="s" x="445" y="125">plan · tool · act</text>
+  <text class="t" x="625" y="105">LLMOps</text>    <text class="s" x="625" y="125">serve · monitor</text>
+  <text class="t" x="805" y="105">PLANT</text>     <text class="s" x="805" y="125">industrial action</text>
+
+  <!-- travelling data pulses -->
+  <g filter="url(#glow)" fill="#00FF88">
+    <circle r="4"><animateMotion dur="3s" repeatCount="indefinite" path="M20,190 L870,190"/></circle>
+    <circle r="4" fill="#FF007F"><animateMotion dur="3s" begin="1s" repeatCount="indefinite" path="M20,190 L870,190"/></circle>
+    <circle r="4" fill="#00F7FF"><animateMotion dur="3s" begin="2s" repeatCount="indefinite" path="M20,190 L870,190"/></circle>
+  </g>
+  <line x1="20" y1="190" x2="870" y2="190" stroke="#7928CA" stroke-opacity=".4" stroke-dasharray="2 6"/>
+  <text class="s" x="450" y="215">raw data ➔ scalable digital assets</text>
+</svg>
