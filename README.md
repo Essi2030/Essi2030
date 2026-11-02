@@ -143,10 +143,10 @@ flowchart LR
 
 <div align="center">
   <a href="https://github.com/Essi2030/RoudAi-SmartArc" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Essi2030&repo=RoudAi-SmartArc&theme=radical&hide_border=true&bg_color=0D1117" alt="RoudAi-SmartArc" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Essi2030&repo=RoudAi-SmartArc&theme=radical&hide_border=true&bg_color=0D1117" alt="RoudAi-SmartArc" />
   </a>
   <a href="https://github.com/Essi2030/mlops-projects-portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Essi2030&repo=mlops-projects-portfolio&theme=radical&hide_border=true&bg_color=0D1117" alt="MLOps Portfolio" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Essi2030&repo=mlops-projects-portfolio&theme=radical&hide_border=true&bg_color=0D1117" alt="MLOps Portfolio" />
   </a>
 </div>
 
@@ -154,10 +154,10 @@ flowchart LR
 
 <div align="center">
   <a href="https://github.com/Essi2030/RAGAssitant" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Essi2030&repo=RAGAssitant&theme=radical&hide_border=true&bg_color=0D1117" alt="RAGAssistant" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Essi2030&repo=RAGAssitant&theme=radical&hide_border=true&bg_color=0D1117" alt="RAGAssistant" />
   </a>
   <a href="https://github.com/Essi2030/NASATurbofanEnginePredictiveMaintenance" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Essi2030&repo=NASATurbofanEnginePredictiveMaintenance&theme=radical&hide_border=true&bg_color=0D1117" alt="NASA Predictive Maintenance" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Essi2030&repo=NASATurbofanEnginePredictiveMaintenance&theme=radical&hide_border=true&bg_color=0D1117" alt="NASA Predictive Maintenance" />
   </a>
 </div>
 
@@ -167,7 +167,7 @@ flowchart LR
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="30" /> GitHub Trophies & Milestones
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Essi2030&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img width="100%" src="https://trophy.ryglcloud.net/?username=Essi2030&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <!-- NEON DIVIDER -->
@@ -176,9 +176,9 @@ flowchart LR
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="30" /> Real-Time Telemetry & Contribution Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Essi2030&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Essi2030&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Essi2030&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Essi2030&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
@@ -190,7 +190,7 @@ flowchart LR
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Essi2030&bg_color=0D1117&color=00F7FF&line=FF007F&point=00FF88&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://ghchart.rshah.org/00F7FF/Essi2030" alt="GitHub Contribution Chart" />
 </div>
 
 <!-- NEON DIVIDER -->
