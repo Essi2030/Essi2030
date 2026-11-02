@@ -1,128 +1,67 @@
-
-<img width="864" height="467" alt="222" src="https://github.com/user-attachments/assets/2fd9dc5f-b135-4607-9389-3d127bfefc9d" />
-
-
 <div align="center">
-<h1 align="center">
-Hi 👋, I'm Dr. Ehsan Zafari
+
+<!-- CUSTOM BANNER -->
+<img width="100%" alt="Dr. Ehsan Zafari Banner" src="https://github.com/user-attachments/assets/2fd9dc5f-b135-4607-9389-3d127bfefc9d" />
+
+<!-- ANIMATED HEADER & WAVING HAND -->
+<h1>
+  Hi there, I'm Dr. Ehsan Zafari 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving Hand" />
 </h1>
-<h3 align="center">
-🤖 AI & Machine Learning Researcher | 🔬 Data Scientist
-  
-<!-- Animated Waving Hand -->
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<!-- LIVE TYPING ANIMATION -->
+<a href="https://github.com/Essi2030">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22& duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Researcher+%F0%9F%A4%96;Data+Scientist+%26+Digital+Asset+Architect+%F0%9F%94%AC;Building+Autonomous+Agentic+AI+for+Industry+%E2%9A%99%EF%B8%8F;LLMOps+%26+Multimodal+AI+Systems+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-</div>
-
-<!--
-
-SOCIAL LINKS
-
--->
-
-## 🌐 Socials:
-<a href="https://linkedin.com/in/dr-ehsan-zafari-ai-ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a> 
-
-<a href="https://kaggle.com/ehsanzafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
-
-<a href="https://instagram.com/drzafari_ml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
-
-<!--
-
-ABOUT ME
-
--->
-
-<div style="margin-top: 20px; margin-bottom: 20px;">
-<h2 align="center">About Me 👨‍🔬</h2>
-<p align="left">
-  
-<b>I am a passionate experienced AI/ML Engineer transforming complex data into <b>Digital Assets.
-
-
-My work focuses on developing robust, data-driven solutions for challenging scientific and industrial problems.
-
-
-
-
-
-
-
-🔭 &nbsp; I’m currently researching new Agentic Ai Automation for Utilizing in Industry.
-
-
-
-
-
-🌱 &nbsp; I’m currently exploring Managing Large Language Models in Production (LLMOps) and Multimodal Agentic Ai.
-
-
-
-
-
-💬 &nbsp; Ask me about: <b>Python, AI/ML, Data Science, or Industrial AI Automations</b>.
+<!-- SOCIAL LINKS & PROFILE VIEWS -->
+<p align="center">
+  <a href="https://linkedin.com/in/dr-ehsan-zafari-ai-ml/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dr. Ehsan Zafari LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/ehsanzafari" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Dr. Ehsan Zafari Kaggle" />
+  </a>
+  <a href="https://instagram.com/drzafari_ml/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Dr. Ehsan Zafari Instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Essi2030&label=Profile%20Views&color=ff0055&style=for-the-badge" alt="Profile Views" />
 </p>
+
 </div>
 
-<!--
+<!-- ANIMATED NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-TECH STACK
-
--->
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white) ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-
-<!--
-
-GITHUB STATS & WIDGETS
-
--->
-
-<div align="center">
-<h2 align="center">My GitHub Activity 📊</h2>
-
-<!-- GitHub Stats & Top Languages (2-Column Layout) -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> System Architecture: About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<!-- GitHub Stats Card -->
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Essi2030&show_icons=true&theme=radical)
+<td width="55%" valign="top">
 
-</a>
+I am an **AI/ML Researcher & Engineer** dedicated to transforming complex, high-dimensional data into scalable **Digital Assets**. My work bridges rigorous scientific research and high-impact industrial deployment.
+
+- 🔭 **Current Research:** Designing **Agentic AI Automation** frameworks tailored for heavy industry and enterprise workflows.
+- 🌱 **Active Exploration:** Scaling **LLMOps** (Managing Large Language Models in Production) & **Multimodal Agentic Systems**.
+- 🧪 **Core Mission:** Engineering resilient, data-driven solutions for complex scientific and industrial bottlenecks.
+- 💬 **Ask me about:** `Python`, `Agentic Workflows`, `LLMOps`, `Data Science`, & `Industrial AI`.
+
 </td>
-<td width="50%" valign="top">
-  
+<td width="45%" valign="top">
 
-<!-- Streak Stats -->
+```python
+class ResearcherProfile:
+    def __init__(self):
+        self.name = "Dr. Ehsan Zafari"
+        self.role = "AI/ML Researcher & Data Scientist"
+        self.focus = [
+            "Industrial Agentic AI",
+            "Multimodal LLMs",
+            "End-to-End LLMOps",
+            "Predictive Data Science"
+        ]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Essi2030&theme=radical)](https://git.io/streak-stats)
+    def current_mission(self) -> str:
+        return "Turning Raw Data into Digital Assets 🚀"
 
-</a>
-</div>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Essi2030&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</a>
-</div>
-
-</div>
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Essi2030&layout=compact)
-
-<!--
-
-
-<!--
-
-FOOTER DIVIDER
-
--->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+dr_zafari = ResearcherProfile()
